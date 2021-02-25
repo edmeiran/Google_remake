@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<style>
+div.relative {
+  position: relative;
+  left: 1100px;
+  bottom: 0px;
+}
+</style>
+<!--
+  Parādīts Images, Gmail, Google, Google Account
+  -->
+<div class="relative">
+Images---
+Gmail---
+Google apps---
+Google Account
+</div>
+<!--
+  Meklēšanas vieta (Search bar)
+  -->
+  <style>
+		.SearchBar {
+     position: relative;
+     top: 360px;
+     left: 480px;
+    }
+
+    .SearchBar input {
+     height: 40px;
+     width: 440px;
+     border-radius: 40px;
+    }
+	</style>
+</head>
+
+</style>
+<div class="SearchBar">
+  <form>
+    <input type="text" placeholder="Search Google or type URL" required>
+  </form>
+</div>
+
+<!--
+  Google logo (GIF) un novietojums
+  -->
+<style>
+img {
+  position: relative;
+  left: 564px;
+  top: 150px;
+}
+</style>
+
+<body>
+<img src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width="272" height="92"
+</body>
+
+<style>
+  .FeelingLucky {
+    position: relative;
+    top: 280px;
+    left: 580px;
+  }
+</style>
+
+<div class="FeelingLucky">
+    <form>
+    <button type="submit">I'm feeling lucky</button>
+    </form>
+  </div>
+
+<style>
+  .GoogleSearch {
+    position: relative;
+    top: 259px;
+    left: 700px;
+  }
+</style>
+
+<div class="GoogleSearch">
+    <form>
+    <button type="submit">Google Search</button>
+    </form>
+</div>
+
+<style>
+    .GoogleOffered {
+    position: relative;
+    top: 300px;
+    left: 600px;
+  }
+</style>
+  <!--
+      Uztaisīja Edgars Meirāns DP1-4
+  -->
+</html>
